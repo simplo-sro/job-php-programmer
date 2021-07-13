@@ -1,6 +1,6 @@
 # SIMPLO - zadání pro PHP programátora
 
-Vytvořte jednoduchou aplikaci, která bude sloužit jako API. Aplikace bude sloužit pro jednoduchou správu zákazníků. HTTP volání budou odvozena od architektury REST.
+Vytvořte v [Laravelu](https://laravel.com/) jednoduchou aplikaci, která bude sloužit jako API. Aplikace bude sloužit pro jednoduchou správu zákazníků. HTTP volání budou odvozena od architektury REST.
 
 Aplikace se bude skládat z následujících entit:
 
