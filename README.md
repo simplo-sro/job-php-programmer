@@ -3,6 +3,8 @@
 Vytvořte v [Laravelu](https://laravel.com/) jednoduchou aplikaci, která bude sloužit jako API. Aplikace bude sloužit pro 
 jednoduchou správu zákazníků. Navržená API by měla splňovat všechny principy RESTu a používat JSON pro výměnu dat.
 
+K tvorbě aplikace nepoužívejte žádné balíčky.
+
 Aplikace se bude skládat z následujících entit:
 
 ### Customer
