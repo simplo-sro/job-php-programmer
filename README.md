@@ -23,3 +23,5 @@ Stačí, když si data předem nachystáte, například pomocí seedu.
  - Vstupy aplikace musí být validovány
 
 Pro bonusové body použijte architekturu [PORTO](https://github.com/Mahmoudz/Porto), volitelně i Repository Pattern
+
+** Úkol prosím odevzdejte tak, že nahrajete zdrojový kód na Git a pošlete odkaz na repozitář.**
