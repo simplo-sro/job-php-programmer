@@ -9,7 +9,7 @@ Aplikace se bude skládat z následujících entit:
 
 ### Customer
 
-Konkrétní zákazník. Pro tuto entitu vytvořte end-point dle REST konvence. Atributy zvolte dle libosti.
+Konkrétní zákazník. Pro tuto entitu vytvořte end-pointy pro CRUD operace dle REST konvence. Atributy zvolte dle libosti.
 
 ### CustomerGroup
 
